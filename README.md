@@ -8,11 +8,10 @@
  
 ## Welcome to my public portfolio
 
-- 🔭 [Machine Learning World Cup 2022 Prediction](https://mattithyahudata.github.io/devportfolio/Project1.html)
-- 🔭 [[Project 2]](https://mattithyahudata.github.io/devportfolio/Project1.html)
-- 🔭 [Project 3](https://mattithyahudata.github.io/devportfolio/Project1.html)
-- 🔭 [Project 4](https://mattithyahudata.github.io/devportfolio/Project1.html)
-- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>PROJECT 5</strong></code>
+- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Machine Learning World Cup 2022 Prediction</strong></code>
+- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 2</strong></code>
+- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 3</strong></code>
+- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 4</strong></code>
 
 
 
