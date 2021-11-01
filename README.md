@@ -8,7 +8,7 @@
  
 ## Welcome to my public portfolio
 
-- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Machine Learning World Cup 2022 Prediction</strong></code>
+- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Machine Learning World Cup 2022 Prediction</strong></code> <br>
 - 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 2</strong></code>
 - 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 3</strong></code>
 - 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 4</strong></code>
