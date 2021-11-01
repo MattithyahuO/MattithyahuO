@@ -1,8 +1,8 @@
 ## Hi there 👋, i'm [Mattithyahu](https://mattithyahudata.github.io/devportfolio/), a passionate full stack analyst. 
 ![](https://github.com/MattithyahuData)
-GET VISITORS LINK.... 
+GET VISITORS LINK....  ADD TO WEBSITE! 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" /> 
+<img align="right" alt="GIF" src="Analystgif.gif" width="500" height="320" /> 
  
 
 **MattithyahuData/MattithyahuData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
