@@ -8,7 +8,7 @@
  
 ## Welcome to my public portfolio
 
-- 🔭 <a>target="_blank" [Machine Learning World Cup 2022 Prediction](https://mattithyahudata.github.io/devportfolio/Project1.html)</a>
+- 🔭 [Machine Learning World Cup 2022 Prediction](https://mattithyahudata.github.io/devportfolio/Project1.html)
 - 🔭 [[Project 2]](https://mattithyahudata.github.io/devportfolio/Project1.html)
 - 🔭 [Project 3](https://mattithyahudata.github.io/devportfolio/Project1.html)
 - 🔭 [Project 4](https://mattithyahudata.github.io/devportfolio/Project1.html)
