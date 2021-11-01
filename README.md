@@ -1,4 +1,4 @@
-## Hi there 👋, i'm [Mattithyahu](https://mattithyahudata.github.io/devportfolio/), a passionate full stack analyst. 
+## Hi 👋, I'm [Mattithyahu](https://mattithyahudata.github.io/devportfolio/), a full stack analyst. 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)
 <!-- GET VISITORS LINK....  ADD TO WEBSITE!  -->
 
