@@ -13,5 +13,5 @@
 - 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 3</strong></code>
 - 🔭 <a><font size="10" color='Black' href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 4</font></strong>
 
-<p><font size="5" color='Black' href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank"><strong> Project 4 </font></strong></p>
+<a><font size="5" color='Black' href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank"><strong> Project 4 </font></strong></a>
 
