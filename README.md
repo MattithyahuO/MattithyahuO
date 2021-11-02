@@ -1,4 +1,4 @@
-### Hi <img src="Wave.gif" width="25px">  I'm [Mattithyahu](https://mattithyahudata.github.io/devportfolio/#about).
+### Hi <img src="Wave.gif" width="25px"> <br> I'm [Mattithyahu](https://mattithyahudata.github.io/devportfolio/#about)
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)
 
 <img align="right" alt="GIF" src="Analyst.gif" width="400" height="256" /> 
