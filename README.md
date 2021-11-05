@@ -3,11 +3,12 @@
 
 <img align="right" alt="GIF" src="Analyst.gif" width="400" height="256" /> 
 
-💬 Contact me here   [Email Mattithyahu](mailto:mattithyahuowolabi@gmail.com)
+💬 Contact me here](mailto:mattithyahuowolabi@gmail.com)
  
 ## Welcome to my Public Portfolio
+#### End to end projects 
 
-- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Machine Learning World Cup 2022 Prediction</strong></code> 
-- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 2</strong></code>
-- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 3</strong></code>
-- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Project 4</strong></code>
+- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>World Cup 2022 Prediction</strong></code> 
+- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Bank Churn Prediction </strong></code>
+- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Product Availability tracker</strong></code>
+- 🔭 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Mega Mart Sales Prediction</strong></code>
