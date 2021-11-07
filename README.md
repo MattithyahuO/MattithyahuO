@@ -10,7 +10,7 @@
 
 [💬 Contact me here](mailto:mattithyahuowolabi@gmail.com)
  
- ## Some Projects
+ ## Feature Projects
 
 #### - ⚽ <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>World Cup 2022 Prediction</strong></code>
 #### - 🏦 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Bank Churn Prediction </strong></code>
