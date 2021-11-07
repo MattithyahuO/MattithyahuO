@@ -1,10 +1,8 @@
 # Welcome to my Portfolio
 
+<img align="right" alt="GIF" src="Analyst.gif" width="400" height="256" /> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)
-
-
-<img align="right" alt="GIF" src="Analyst.gif" width="400" height="256" /> 
  
  ## Feature Projects
 
