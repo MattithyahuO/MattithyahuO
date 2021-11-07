@@ -1,6 +1,6 @@
 # Welcome to my Portfolio
 
-#### Where I use programming and BI tools to analyse and forecast things. 
+#### TOOOLS LOGOS..... 
 <div style="display: inline-block;" align="right">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)</div>
