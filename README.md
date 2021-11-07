@@ -1,7 +1,7 @@
 ## Welcome to my Portfolio
 <div style="display: inline-block;">
 
-## Welcome to my Portfolio</div>
+### Welcome to my Portfolio</div>
 <div style="display: inline-block;">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)</div>
