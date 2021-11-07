@@ -1,10 +1,9 @@
 ## Welcome to my Portfolio
+
+#### Where I use programming and BI tools to analyse and forecast things. 
 <div style="display: inline-block;" align="right">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)</div>
-
-
-#### Where I use programming and BI tools to analyse and forecast things. 
 
 
 <img align="right" alt="GIF" src="Analyst.gif" width="400" height="256" /> 
