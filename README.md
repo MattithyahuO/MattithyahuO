@@ -1,6 +1,6 @@
-# Welcome to my Portfolio
+# Welcome to my Public Portfolio
 
-<img align="right" alt="GIF" src="Analyst.gif" width="400" height="256" /> 
+<img align="right" alt="GIF" src="Analyst.gif" width="420" height="269" /> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)
  
