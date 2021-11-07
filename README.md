@@ -7,8 +7,6 @@
 
 
 <img align="right" alt="GIF" src="Analyst.gif" width="400" height="256" /> 
-
-[💬 Contact me here](mailto:mattithyahuowolabi@gmail.com)
  
  ## Feature Projects
 
@@ -18,3 +16,4 @@
 #### - 🏪 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Mega Mart Sales Prediction</strong></code>
 #### - 🏦 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Bank Churn Prediction </strong></code>
 
+[💬 Contact me here](mailto:mattithyahuowolabi@gmail.com)
