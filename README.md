@@ -1,11 +1,9 @@
 ## Welcome to my Portfolio
-<div style="display: inline-block;">
-
-### Welcome to my Portfolio</div>
 <div style="display: inline-block;" align="right">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)</div>
 <span>![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)</span>
+
 #### Where I use programming and BI tools to analyse and forecast things. 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)
 
