@@ -16,4 +16,4 @@
 #### - 🏪 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Mega Mart Sales Prediction</strong></code>
 #### - 🏦 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Bank Churn Prediction </strong></code>
 
-[💬 Contact me here](mailto:ithyahuowolabi@gmail.com)
+<!-- [💬 Contact me here](mailto:ithyahuowolabi@gmail.com) -->
