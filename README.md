@@ -1,4 +1,4 @@
-## Welcome to my Portfolio
+# Welcome to my Portfolio
 
 #### Where I use programming and BI tools to analyse and forecast things. 
 <div style="display: inline-block;" align="right">
@@ -10,7 +10,7 @@
 
 [💬 Contact me here](mailto:mattithyahuowolabi@gmail.com)
  
- ### Some Projects
+ ## Some Projects
 
 #### - ⚽ <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>World Cup 2022 Prediction</strong></code>
 #### - 🏦 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Bank Churn Prediction </strong></code>
