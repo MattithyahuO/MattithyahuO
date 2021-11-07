@@ -1,9 +1,7 @@
 # Welcome to my Portfolio
 
 
-<div style="display: inline-block;" align="left">
-
-![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)</div>
+![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)
 
 
 <img align="right" alt="GIF" src="Analyst.gif" width="400" height="256" /> 
