@@ -2,7 +2,7 @@
 <div style="display: inline-block;">
 
 ### Welcome to my Portfolio</div>
-<div style="display: inline-block;">
+<div style="display: inline-block;" align="right">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)</div>
 <span>![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)</span>
