@@ -22,6 +22,7 @@
 #### - 🛍 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Product Availability tracker</strong></code>
 #### - 🏪 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Mega Mart Sales Prediction</strong></code>
 #### - 🏦 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Bank Churn Prediction </strong></code>
+<font size="5" color='Black'><strong>Bachelors of Science in Mathematics</strong></font></h3>
 
 <!-- [💬 Contact me here](mailto:ithyahuowolabi@gmail.com) -->
 
