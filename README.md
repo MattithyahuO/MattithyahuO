@@ -13,3 +13,5 @@
 #### - 🏦 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Bank Churn Prediction </strong></code>
 
 <!-- [💬 Contact me here](mailto:ithyahuowolabi@gmail.com) -->
+
+[![Mattithyahu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattithyahuData](https://github.com/anuraghazra/github-readme-stats)
