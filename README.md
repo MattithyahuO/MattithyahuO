@@ -1,4 +1,4 @@
-### Hi! I'm Mattithyahu 
+### Hi, I'm Mattithyahu 
 
 # Welcome to my Public Portfolio
 
@@ -7,7 +7,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)
  
- ## Feature Projects
+ ### Feature Projects
 
 #### - ⚽ <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>World Cup 2022 Prediction</strong></code>
 #### - 🏦 <code><a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><strong>Bank Churn Prediction </strong></code>
