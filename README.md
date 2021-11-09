@@ -4,9 +4,9 @@
 <!-- # Welcome to my Public Portfolio -->
 ## Feature Projects
 
-<img align="right" alt="GIF" src="Analyst.gif" width="420" height="269" /> 
+<img align="right" alt="GIF" src="Analyst.gif" width="350" height="224" /> 
 <!-- <img align= "right" src="https://github-readme-stats.vercel.app/api?username=MattithyahuData&show_icons=true"  width="420"/> -->
-<img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattithyahuData&layout=compact"  width="420" height="160"/>
+<img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattithyahuData&layout=compact"  width="350" height="160"/>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData) -->
 <!-- 
