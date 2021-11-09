@@ -1,12 +1,12 @@
 ### Hi, I'm Mattithyahu 
 
-<font color=white>
+<font color='white'>
 
  ### Hi, I'm Mattithyahu </font>
 
 # Welcome to my Public Portfolio
 
-<font color=white>
+<font color='white'>
 
 # Welcome to my Public Portfolio</font> 
 
@@ -15,7 +15,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData)
 
-<font color=white>
+<font color='white'>
 
  ### Feature Projects</font>
  
