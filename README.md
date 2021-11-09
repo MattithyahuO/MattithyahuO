@@ -1,3 +1,5 @@
+### Hello, I'm Mattithyahu. 
+
 # Welcome to my Public Portfolio
 
 <img align="right" alt="GIF" src="Analyst.gif" width="420" height="269" /> 
@@ -16,6 +18,5 @@
 
 
 
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=MattithyahuData&show_icons=true"></p>
+<p align= "right"><img src="https://github-readme-stats.vercel.app/api?username=MattithyahuData&show_icons=true"></p>
 
-![Mattithyahu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattithyahuData](https://github.com/anuraghazra/github-readme-stats)
