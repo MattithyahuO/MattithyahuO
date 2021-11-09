@@ -14,4 +14,8 @@
 
 <!-- [💬 Contact me here](mailto:ithyahuowolabi@gmail.com) -->
 
-[![Mattithyahu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattithyahuData](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=MattithyahuData&show_icons=true"></p>
+
+![Mattithyahu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattithyahuData](https://github.com/anuraghazra/github-readme-stats)
