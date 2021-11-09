@@ -1,8 +1,8 @@
-###  Welcome to my public Data Science portfolio
+### Hi, I'm Mattithyahu || Welcome to public portfolio
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" /> 
 
 <!-- # Welcome to my Public Portfolio -->
-## Feature Projects
+### Feature Projects
 
 <img align="right" alt="GIF" src="Analyst.gif" width="420" height="269" /> 
 <!-- <img align= "right" src="https://github-readme-stats.vercel.app/api?username=MattithyahuData&show_icons=true"  width="420"/> -->
