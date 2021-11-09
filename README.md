@@ -1,6 +1,6 @@
 <a href= "https://mattithyahudata.github.io/devportfolio/">
 
-### Hi, I'm Mattithyahu</a>
+##  👋 Hi, I'm Mattithyahu</a>
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" /> 
 
 <!-- # Welcome to my Public Portfolio -->
