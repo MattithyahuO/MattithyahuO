@@ -14,7 +14,7 @@
  ### Feature Projects -->
 
 ### - ⚽ <a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><font size="6" color='yellow'><strong>PROJECT NAME PROJECT NAME</strong></font>
-<p> DESCRIPTION </p>
+<a> DESCRIPTION </a>
 ### - ⚽ <a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><font size="6" color='yellow'><strong>PROJECT NAME</strong></font>
 ### - ⚽ <a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><font size="6" color='yellow'><strong>PROJECT NAME</strong></font>
 ### - ⚽ <a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><font size="6" color='yellow'><strong>PROJECT NAME</strong></font>
