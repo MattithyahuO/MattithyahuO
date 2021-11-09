@@ -1,4 +1,4 @@
-### Hi, I'm Mattithyahu || Welcome to public portfolio
+### Hi, I'm Mattithyahu | Welcome to public portfolio
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" /> 
 
 <!-- # Welcome to my Public Portfolio -->
