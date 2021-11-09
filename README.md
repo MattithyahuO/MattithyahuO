@@ -6,7 +6,8 @@
 
 <img align="right" alt="GIF" src="Analyst.gif" width="350" height="224" /> 
 <!-- <img align= "right" src="https://github-readme-stats.vercel.app/api?username=MattithyahuData&show_icons=true"  width="420"/> -->
-<!-- <img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattithyahuData&layout=compact"  width="350" height="200"/> -->
+<img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattithyahuData&layout=compact"  width="350" />
+
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData) -->
 <!-- 
@@ -22,7 +23,7 @@
 ### - ⚽ <a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><font size="6" color='yellow'><strong>PROJECT NAME</strong></font>
 ### - ⚽ <a href="https://mattithyahudata.github.io/devportfolio/Project1.html" target="_blank" ><font size="6" color='yellow'><strong>PROJECT NAME</strong></font>
 
-<img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattithyahuData&layout=compact"  width="350" height="200"/>
+<!-- <img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattithyahuData&layout=compact"  width="350" height="200"/> -->
 
 <!-- [💬 Contact me here](mailto:ithyahuowolabi@gmail.com) -->
 
