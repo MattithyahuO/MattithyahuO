@@ -18,5 +18,5 @@
 
 
 
-<p align= "right"><img src="https://github-readme-stats.vercel.app/api?username=MattithyahuData&show_icons=true"></p>
+<p align= "right" width="420"><img src="https://github-readme-stats.vercel.app/api?username=MattithyahuData&show_icons=true"></p>
 
