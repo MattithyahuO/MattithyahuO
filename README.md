@@ -1,4 +1,4 @@
-###  Welcome to my Public Portfolio 
+###  Welcome to my public Data Science Portfolio 
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />  --> 
 
 <!-- # Welcome to my Public Portfolio -->
