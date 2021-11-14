@@ -1,4 +1,4 @@
-##  Welcome to my Portfolio 
+<!-- ##  Welcome to my Portfolio 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" /> 
 
 <!-- # Welcome to my Public Portfolio -->
@@ -24,4 +24,4 @@
 <!-- <img align= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattithyahuData&layout=compact"  width="350" height="200"/> -->
 
 <!-- [💬 Contact me here](mailto:ithyahuowolabi@gmail.com) -->
-
+ -->
