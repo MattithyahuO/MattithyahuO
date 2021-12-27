@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />   -->
 
-### Welcome to my GitHub page
-Mattithyahu's Data Science Portfolio 
+### Welcome to my GitHub Data Science Portfolio Page! 
+
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />  
 
 <!-- Domain: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
