@@ -3,7 +3,7 @@
 
 ### **My name is Mattithyahu**
 
-I specialise in using data in intelligent ways to answer questions, provoke thought and grow investment. 
+I specialise in using data in intelligent ways to answer questions, provoke thought, and grow investment. 
 
 *   I'm currently working on open-source projects, applying machine learning in researching alpha, and C++ development
 *   How to contact me: <a href="mailto:contactmattithyahu@gmail.com"><font size="6" color='white'><strong>Click here to email Mattithyahu</strong></font></a>
