@@ -7,6 +7,9 @@ I specialise in using data in intelligent ways to answer questions, provoke thou
 
 *   I'm currently working on open-source projects, applying machine learning in researching alpha, and C++ development
 *   How to contact me: <a href="mailto:contactmattithyahu@gmail.com"><font size="6" color='white'><strong>Click here to email Mattithyahu</strong></font></a>
+*   Find out more:
+    *   [Personal website](https://mattithyahutech.co.uk)
+    *   [Projects and Publications](https://mattithyahudata.github.io/)
 
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />   -->
 
