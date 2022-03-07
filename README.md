@@ -1,11 +1,11 @@
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />   -->
-Welcome to my GitHub Data Science Portfolio!
+### Welcome to my GitHub Data Science Portfolio!
 
 ### **My name is Mattithtyahu**
 
-I work on all things data science in answering questions and generating a return on investments and trading. 
+I specialise in using data in intelligent ways to answer questions, provoke thought and grow investment. 
 
-*   I'm currently working on open source projects, researching alpha, and C++ development
+*   I'm currently working on open-source projects, applying machine learning in researching alpha, and C++ development
 *   How to contact me: <a href="mailto:contactmattithyahu@gmail.com"><font size="6" color='white'><strong>Click here to email Mattithyahu</strong></font></a>
 
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />   -->
