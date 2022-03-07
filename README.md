@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />   -->
-### Welcome to my GitHub Data Science Portfolio!
+### Welcome to my GitHub Page!
 
-### **My name is Mattithtyahu**
+### **My name is Mattithyahu**
 
 I specialise in using data in intelligent ways to answer questions, provoke thought and grow investment. 
 
