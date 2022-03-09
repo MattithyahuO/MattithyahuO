@@ -21,3 +21,11 @@ Libraries & Tools: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Lear
 
 Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics. -->
 
+
+
+
+
+
+
+
+
