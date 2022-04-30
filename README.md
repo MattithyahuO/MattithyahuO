@@ -8,6 +8,7 @@ I specialise in using data in intelligent ways to answer questions, provoke thou
 *   Find out more:
     *   [Personal website](https://mattithyahutech.co.uk)
     *   [Projects and Publications](https://mattithyahudata.github.io/)
+    *   [Created Python packages](https://pypi.org/user/mattithyahudata/)
 
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />   -->
 
