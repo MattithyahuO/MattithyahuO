@@ -6,7 +6,7 @@ I specialise in using data in intelligent ways to answer questions, provoke thou
 *   I'm currently working on researching alpha 
 *   How to contact me: <a href="mailto:contactmattithyahu@gmail.com"><font size="6" color='white'><strong>Click here to email me</strong></font></a>
 *   View my public work:
-    *   [Projects and Publications](https://mattithyahudata.github.io/)
+    *   [Publications Portfolio](https://mattithyahudata.github.io/)
     *   [Created Python packages](https://pypi.org/user/mattithyahudata/)
     *   [Stackoverflow help page](https://stackoverflow.com/users/16562519/analyticsolutions)
 
