@@ -1,15 +1,17 @@
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />   -->
 ### Welcome to my GitHub Page, my name is **Mattithyahu**
 
-I specialise in using data in intelligent ways to answer questions, provoke thought, and grow investment. 
+I specialise in using data in intelligent ways to answer questions, provoke thought, drive decisions, and grow investment. 
 
-*   I'm currently working on open-source projects, applying machine learning in researching alpha, and C++ development
-*   How to contact me: <a href="mailto:contactmattithyahu@gmail.com"><font size="6" color='white'><strong>Click here to email Mattithyahu</strong></font></a>
+*   I'm currently working on researching alpha 
+*   How to contact me: <a href="mailto:contactmattithyahu@gmail.com"><font size="6" color='white'><strong>Click here to email me</strong></font></a>
 *   View my public work:
     *   [Projects and Publications](https://mattithyahudata.github.io/)
     *   [Created Python packages](https://pypi.org/user/mattithyahudata/)
 
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />   -->
+
+<!-- Example -->
 
 <!-- Domain: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
 
