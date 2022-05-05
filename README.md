@@ -8,7 +8,7 @@ I specialise in using data in intelligent ways to answer questions, provoke thou
 *   View my public work:
     *   [Projects and Publications](https://mattithyahudata.github.io/)
     *   [Created Python packages](https://pypi.org/user/mattithyahudata/)
-    *   [stackoverflow help page](https://stackoverflow.com/users/16562519/analyticsolutions)
+    *   [Stackoverflow help page](https://stackoverflow.com/users/16562519/analyticsolutions)
 
 <!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MattithyahuData.MattithyahuData" />   -->
 
