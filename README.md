@@ -1,8 +1,8 @@
 ### Welcome to my GitHub Page, my name is **Mattithyahu**
 
 *   I'm currently working on projects that solve problems
-    * ## [🚀 Videntify](https://viidentify.com/)
-    * ## [📖 justlearnai](https://justlearnai.com/)
+    * ### [🚀 Videntify](https://viidentify.com/)
+    * ### [📖 justlearnai](https://justlearnai.com/)
 *   How to contact me: <a href="mailto:contactmattithyahu@gmail.com"><strong>email me</strong></a>
 *   View my public work:
     <strong>
