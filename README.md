@@ -1,12 +1,19 @@
-### Welcome to my GitHub Page, my name is **Mattithyahu**
+## **Mattithyahu Owolabi**
 
-*   I'm currently working on projects that solve problems
-    * ### [🚀 Videntify](https://viidentify.com/) <strong> (DECOMMISSIONED)</strong>
-    * ### [📖 justlearnai](https://justlearnai.com/)
-*   How to contact me: <a href="mailto:contactmattithyahu@gmail.com"><strong>email me</strong></a>
-*   View my public work:
-    <strong>
-    *   [Publications Portfolio website](https://mattithyahudata.github.io/)
-    *   [Created Python packages](https://pypi.org/user/mattithyahudata/)
-    *   [Stackoverflow help page](https://stackoverflow.com/users/16562519/analyticsolutions)
-    </strong>
+Software Engineer (ML), DevOps Engineer, Platform Engineer, Cloud Engineer. I work mainly with Linux, AWS, Azure, Kubernetes, Docker, Python, Terraform. 
+
+<a href="mailto:hello@mattithyahu.com"><strong>hello@mattithyahu.com</strong></a>
+
+## Things I've built
+
+###  LLM Inference Optimiser
+
+### Distributed LLM Serving Platform
+
+### AI Observability Stack
+
+### ML Reliability Engine
+
+### Enterprise AI Infrastructure
+
+### Nuclear AI Safety Protocols
