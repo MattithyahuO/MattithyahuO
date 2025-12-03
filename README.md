@@ -9,35 +9,22 @@
 </div>
 
 ## Connect
+
 [![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://mattithyahu.com/projects)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mattithyahu)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@mattithyahu.com)
 
 ## Tech Stack
-Linux, C++, Python, TypeScript, CUDA, PyTorch, React, Kubernetes (K8s, K3s, MicroK8s), Docker, AWS, Azure, GCP, Terraform, Ansible, Palantir, Edge Computing, ROS2, ARM, ONNX, TensorRT, MLOps, Redis, PostgreSQL, Computer Vision, LLMs, NCCL, Prometheus, Grafana
+
+Linux, C++, Python, Rust, Go, TypeScript, CUDA, PyTorch, TensorFlow, React, Kubernetes (K8s, K3s, MicroK8s), Docker, AWS, Azure, GCP, Terraform, Ansible, Edge Computing, ROS2, ARM, ONNX, TensorRT, MLOps, MLflow, Redis, PostgreSQL, Computer Vision, LLMs, NCCL, Prometheus, Grafana
 
 ## Things I've Built
 
-### [LLM Inference Optimiser](https://github.com/mattithyahu/llm-inference-optimiser)
-Multi-model AI gateway reducing costs by 60% through intelligent caching and batching with sub-50ms P95 latency.
+### [MLOps GPU Scheduler](https://github.com/mattithyahuo/mlops-gpu-scheduler)
+Multi-cloud GPU orchestration with intelligent scheduling, cost optimisation, and chaos-engineered resilience using custom Kubernetes operators.
 
-### [Distributed LLM Serving Platform](https://github.com/mattithyahu/distributed-llm-serving-platform)
-99.99% uptime platform with automatic failover, 10+ node scaling, and multi-GPU orchestration using NCCL.
+### [Edge AI CUDA Vision](https://github.com/mattithyahuo/edge-ai-cuda-vision)
+Real-time computer vision on NVIDIA Jetson with CUDA-optimised inference, TensorRT quantisation, and sub-50ms latency.
 
-### [Edge AI Robotics Vision](https://github.com/mattithyahu/edge-ai-robotics-vision)
-Sub-100ms edge processing on Hiwonder MentorPi robot with SLAM, object detection, and sensor fusion.
-
-### [AI Observability Stack](https://github.com/mattithyahu/ai-observability-stack)
-ML-specific monitoring with drift detection, automated alerting, and performance tracking reducing debug time by 80%.
-
-### [ML Reliability Engine](https://github.com/mattithyahu/ml-reliability-engine)
-SRE framework with chaos engineering achieving 99.9% availability and sub-60s incident response for AI systems.
-
-### [Enterprise AI Infrastructure](https://github.com/mattithyahu/enterprise-ai-infrastructure)
-One-click SOC2/GDPR compliant deployment with zero-downtime updates and multi-cloud support.
-
-### [Kubernetes AI Orchestrator](https://github.com/mattithyahu/kubernetes-ai-orchestrator)
-Custom scheduler achieving 90%+ GPU utilization with MIG support and intelligent workload placement.
-
-### [Quant Trading ML Platform](https://github.com/mattithyahu/quant-trading-ml-platform)
-Ultra-low latency platform delivering sub-10μs inference for high-frequency trading with lock-free data structures.
+### [CUDA Trading Infrastructure](https://github.com/mattithyahuo/cuda-trading-infrastructure)
+Low-latency ML inference framework with lock-free data structures, CUDA kernel optimisation, and sub-10μs prediction serving.
