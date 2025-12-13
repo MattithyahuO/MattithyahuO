@@ -2,7 +2,7 @@
 
 # [Mattithyahu](https://mattithyahu.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?pause=1000&color=0969da&center=true&vCenter=true&width=435&lines=Software+Engineer;ML+Infrastructure+Engineer;GPU+Optimisation+Specialist;Distributed+Systems+Architect;Production+ML+Engineer;AI+Systems+Engineer;Cloud+Native+ML+Engineer;Platform+Engineer+(AI/ML);Inference+Optimisation+Engineer;MLOps+Engineer;Edge+AI+Engineer;Research+Engineer" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?pause=1000&color=0969da&center=true&vCenter=true&width=435&lines=Software+Engineer;ML+Infrastructure+Engineer;GPU+Optimisation+Specialist;Distributed+Systems+Architect;Production+ML+Engineer;AI+Systems+Engineer;Cloud+Native+ML+Engineer;Platform+Engineer+(AI/ML);Inference+Optimisation+Engineer;MLOps+Engineer;Edge+AI+Engineer;Research+Engineer" alt="Typing SVG" /> -->
 
 **Software Engineer** building AI/ML systems, infrastructure that scales, and automation tools across cloud, on-premise, and edge environments.
 
