@@ -4,7 +4,7 @@
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?pause=1000&color=0969da&center=true&vCenter=true&width=435&lines=Software+Engineer;ML+Infrastructure+Engineer;GPU+Optimisation+Specialist;Distributed+Systems+Architect;Production+ML+Engineer;AI+Systems+Engineer;Cloud+Native+ML+Engineer;Platform+Engineer+(AI/ML);Inference+Optimisation+Engineer;MLOps+Engineer;Edge+AI+Engineer;Research+Engineer" alt="Typing SVG" /> -->
 
-**Software Engineer** building AI/ML systems, infrastructure that scales, and automation tools across cloud, on-premise, and edge environments.
+**Software Engineer** designing, building, and shipping performance-critical software — low-latency systems, hardware-accelerated computing, distributed platforms, and production ML pipelines — to any target: cloud, on-premise, edge, desktop, and mobile.
 
 </div>
 
@@ -20,11 +20,17 @@ Linux, C++, Python, Rust, Go, TypeScript, CUDA, PyTorch, TensorFlow, React, Kube
 
 ## Things I've Built
 
-### [MLOps GPU Scheduler](https://github.com/mattithyahuo/mlops-gpu-scheduler)
-Multi-cloud GPU orchestration with intelligent scheduling, cost optimisation, and chaos-engineered resilience using custom Kubernetes operators.
+### [MLOps GPU Scheduler](https://github.com/mattithyahu/mlops-gpu-scheduler)
+Multi-cloud GPU orchestration platform with intelligent scheduling, FinOps cost optimisation, and chaos-engineered resilience. Custom Kubernetes operator deployed across AWS EKS, Azure AKS, and GCP GKE. 40% cost reduction, 78% GPU utilisation.
 
-### [Edge AI CUDA Vision](https://github.com/mattithyahuo/edge-ai-cuda-vision)
-Real-time computer vision on NVIDIA Jetson with CUDA-optimised inference, TensorRT quantisation, and sub-50ms latency.
+### [Edge AI CUDA Vision](https://github.com/mattithyahu/edge-ai-cuda-vision)
+Multi-platform computer vision system with custom CUDA preprocessing kernels and TensorRT INT8 quantisation. One model, four deployment targets: edge (Jetson Orin, sub-50ms p99 at 15W), desktop (C++ native with Dear ImGui), mobile (TFLite/CoreML), and web (ONNX Runtime Web, client-side inference in the browser).
 
-### [CUDA Trading Infrastructure](https://github.com/mattithyahuo/cuda-trading-infrastructure)
-Low-latency ML inference framework with lock-free data structures, CUDA kernel optimisation, and sub-10μs prediction serving.
+### [NanoHFT](https://github.com/mattithyahu/nanohft)
+Full-stack trading system built from hardware to ML inference. Lock-free order book, FPGA market data parsing, CUDA-accelerated signal generation, custom memory allocators, and FIX protocol execution. Sub-10μs tick-to-trade latency. Paper trading only.
+
+### [Alpha Signals](https://github.com/mattithyahu/alpha-signals)
+ML signal generation pipeline with walk-forward backtesting, XGBoost/LightGBM ensemble models, Optuna hyperparameter tuning, and real-time gRPC serving. Feature engineering across 200+ technical indicators with regime detection.
+
+### [Trading Infrastructure (Rust)](https://github.com/mattithyahu/trading-infra-rs)
+Distributed message broker in Rust with custom Raft consensus, DPDK zero-copy networking, io_uring async I/O, and arena/slab memory allocators. Sub-microsecond message latency, 10M+ messages/sec throughput. Jepsen-tested for linearisability.
