@@ -10,7 +10,7 @@
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://mattithyahu.com/projects)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://mattithyahu.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mattithyahu)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@mattithyahu.com)
 
