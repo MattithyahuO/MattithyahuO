@@ -18,8 +18,6 @@
 
 Linux, C++, Python, Rust, Go, TypeScript, CUDA, PyTorch, TensorFlow, React, Kubernetes (K8s, K3s, MicroK8s), Docker, AWS, Azure, GCP, Terraform, Ansible, Edge Computing, ROS2, ARM, ONNX, TensorRT, MLOps, MLflow, Redis, PostgreSQL, Computer Vision, LLMs, NCCL, Prometheus, Grafana
 
-<!--
-
 ## Things I've Built
 
 ### [MLOps GPU Scheduler](https://github.com/mattithyahu/mlops-gpu-scheduler)
@@ -36,5 +34,3 @@ ML signal generation pipeline with walk-forward backtesting, XGBoost/LightGBM en
 
 ### [Trading Infrastructure (Rust)](https://github.com/mattithyahu/trading-infra-rs)
 Distributed message broker in Rust with custom Raft consensus, DPDK zero-copy networking, io_uring async I/O, and arena/slab memory allocators. Sub-microsecond message latency, 10M+ messages/sec throughput. Jepsen-tested for linearisability.
-
--->
